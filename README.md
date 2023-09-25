@@ -13,6 +13,13 @@ I'm also an alumni of [Laboratoria](https://www.laboratoria.la/en), a 6-month bo
 * 🧠  I'm currently learning Javascript, Unit Testing, Node and React. I also have a basic knowledge in C++ focused on microcontrollers.
 * 🤖  I love making projects with Arduino!
 
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=diulianne&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true" alt="GitHub Stats" width="400" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diulianne&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24" alt="Top Languages" width="400" >
+</p>
+
+
 ### Skills
 
 <p align="left">
@@ -29,10 +36,7 @@ I'm also an alumni of [Laboratoria](https://www.laboratoria.la/en), a 6-month bo
 
 <p align="left"> <a href="https://github.com/Diulianne" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/diulianneoliveira/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=diulianne&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true" alt="GitHub Stats" width="400" > <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diulianne&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24" alt="Top Languages" width="400" >
-</p>
+
 
 
 
