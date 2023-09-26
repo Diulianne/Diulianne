@@ -15,8 +15,8 @@ I'm also an alumni of [Laboratoria](https://www.laboratoria.la/en), a 6-month bo
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=diulianne&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true" alt="GitHub Stats" width="400" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diulianne&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24" alt="Top Languages" width="400" >
+    <img src="https://github-readme-stats.vercel.app/api?username=diulianne&show_icons=true&theme=neon&rank_icon=github&include_all_commits=true" alt="GitHub Stats" height="180em">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diulianne&show_icons=true&theme=neon" alt="Top Languages"  height="180em">
 </p>
 
 
