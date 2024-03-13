@@ -8,7 +8,7 @@ I'm 20 years old and an aspiring programmer who has been passionate about techno
 
 I'm also an alumni of [Laboratoria](https://www.laboratoria.la/en), a 6-month bootcamp aimed at empowering women in Latin America who want to start a career in tech.
 
-* 🌍  I'm based in Manaus, Brazil
+* 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [diulihh@gmail.com](mailto:diulihh@gmail.com)
 * 🧠  I'm currently learning Javascript, Unit Testing, Node and React. I also have a basic knowledge in C++ focused on microcontrollers.
 * 🤖  I love making projects with Arduino!
