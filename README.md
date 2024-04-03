@@ -1,17 +1,17 @@
-Hi 👋 My name is Diulianne
+Olá! 👋 Meu nome é Diulianne
 ==========================
 
-Front End Developer
+Desenvolvedora Front-End
 -----------------------------
 
-I'm 20 years old and an aspiring programmer who has been passionate about technology since childhood. I love programming and explore my creativity. My major interests include front-end development, robotics and contributing to the reduction of gender inequality in the technology field!
+Tenho 21 anos e sou uma programadora apaixonada por tecnologia desde a infância. Adoro programar e explorar minha criatividade. Meus principais interesses incluem desenvolvimento front-end, robótica e contribuir para a redução da desigualdade de gênero no campo da tecnologia!
 
-I'm also an alumni of [Laboratoria](https://www.laboratoria.la/en), a 6-month bootcamp aimed at empowering women in Latin America who want to start a career in tech.
+Também sou ex-aluna da [Laboratoria](https://www.laboratoria.la/en), um bootcamp de 6 meses voltado para capacitar mulheres na América Latina que desejam iniciar uma carreira na área de tecnologia.
 
-* 🌍  I'm based in São Paulo, Brazil
-* ✉️  You can contact me at [diulihh@gmail.com](mailto:diulihh@gmail.com)
-* 🧠  I'm currently learning Javascript, Unit Testing, Node and React. I also have a basic knowledge in C++ focused on microcontrollers.
-* 🤖  I love making projects with Arduino!
+* 🌍 São Paulo, Brasil
+* ✉️ Você pode entrar em contato comigo em [diulihh@gmail.com](mailto:diulihh@gmail.com)
+* 🧠  Atualmente estou aprendendo Javascript, Testes Unitários, Node e React. Também possuo conhecimentos básicos em C++ focados em microcontroladores.
+* 🤖 Adoro criar projetos com Arduino!
 
 
 <p align="center">
